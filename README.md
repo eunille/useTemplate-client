@@ -1,4 +1,16 @@
-# React + TypeScript + Vite
+# 🧪 React + TypeScript + Vite Template
+
+A ready-to-clone template designed for **fast, opinionated frontend setup** using React, TypeScript, and Vite. This repo comes with essential utilities, dependencies, and styling frameworks already configured — making it ideal for personal projects or quick prototyping.
+
+
+## ⚡️ Features
+
+- ✅ **Pre-configured** with `React`, `TypeScript`, and `Vite`
+- 🎯 **ESLint setup** with optional strict and type-aware rules
+- 🎨 **UI components** powered by [shadcn/ui](https://ui.shadcn.d)
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
