@@ -7,9 +7,9 @@ A ready-to-clone template designed for **fast, opinionated frontend setup** usin
 
 - ✅ **Pre-configured** with `React`, `TypeScript`, and `Vite`
 - 🎯 **ESLint setup** with optional strict and type-aware rules
-- 🎨 **UI components** powered by [shadcn/ui](https://ui.shadcn.d)
-
-
+- 🎨 **UI components** powered by [shadcn/ui](https://ui.shadcn.dev/)
+- 🛠️ **Developer utilities** included for fast iteration
+- 📦 Just clone and run `npm install` to get started
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
