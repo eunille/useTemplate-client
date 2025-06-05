@@ -11,6 +11,26 @@ A ready-to-clone template designed for **fast, opinionated frontend setup** usin
 - 🛠️ **Developer utilities** included for fast iteration
 - 📦 Just clone and run `npm install` to get started
 
+  ## 📁 Project Goals
+
+- Serve as a **boilerplate for personal frontend projects**
+- Provide a **clean and extensible folder structure** (coming soon)
+- Minimize setup time while promoting good practices
+- Make integration with other tools and libraries seamless
+
+## 🚀 Getting Started
+
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+
+2. Install dependencies:
+     npm install
+
+3. Start your server:
+    npm run dev
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
