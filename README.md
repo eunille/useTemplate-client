@@ -7,11 +7,9 @@ By cloning this template, you skip the hassle of repetitive setup work. All core
 
 ## ⚡️ Features
 
-- ✅ **Pre-configured** with `React`, `TypeScript`, and `Vite`
-- 🎯 **ESLint setup** with optional strict and type-aware rules
-- 🎨 **UI components** powered by [shadcn/ui](https://ui.shadcn.dev/)
-- 🛠️ **Developer utilities** included for fast iteration
-- 📦 Just clone and run `npm install` to get started
+- ✅ **React + TypeScript + Vite**: A blazing fast dev experience with hot module reloading and type safety out of the box.
+- 🎯 **ESLint configuration**: Linting support with optional strict type-checking and stylistic rules for clean, maintainable code.
+- 🎨 **shadcn/ui integrated**: Preconfigured for building accessible and beautiful UI components using Tailwind CSS and Radix UI.
 
   ## 📁 Project Goals
 
