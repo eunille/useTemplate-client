@@ -35,12 +35,13 @@ By cloning this template, you skip the hassle of repetitive setup work. All core
 
 
 📌 Future Improvements
-📂 Refined and scalable folder structure
+📂 Scalable folder structure: Organize pages, components, hooks, and services for easier maintenance.
 
-🧱 Custom component library setup
+🧱 Custom component library setup: Shared, reusable components with documentation and style guides.
 
-🔧 CLI script for one-line project initialization
+🔧 CLI project initializer: Automate project creation with pre-filled metadata and structure.
 
-📘 Optional Storybook and testing integrations
+📘 Storybook integration: Visual testing and documentation for components.
 
+🧪 Unit and E2E testing setup: With libraries like Vitest, React Testing Library, or Cypress.
 
