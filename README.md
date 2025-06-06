@@ -35,6 +35,7 @@ By cloning this template, you skip the hassle of repetitive setup work. All core
 
 
 📌 Future Improvements
+
 📂 Scalable folder structure: Organize pages, components, hooks, and services for easier maintenance.
 
 🧱 Custom component library setup: Shared, reusable components with documentation and style guides.
