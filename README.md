@@ -10,13 +10,15 @@ By cloning this template, you skip the hassle of repetitive setup work. All core
 - ✅ **React + TypeScript + Vite**: A blazing fast dev experience with hot module reloading and type safety out of the box.
 - 🎯 **ESLint configuration**: Linting support with optional strict type-checking and stylistic rules for clean, maintainable code.
 - 🎨 **shadcn/ui integrated**: Preconfigured for building accessible and beautiful UI components using Tailwind CSS and Radix UI.
+- 🧰 **Utility-first setup**: Includes essential development tools and conventions so you don’t need to spend time wiring things up.
+- 💡 **Pre-installed dependencies**: Everything you need to build scalable, performant apps is already here — just run `npm install`.
 
   ## 📁 Project Goals
 
-- Serve as a **boilerplate for personal frontend projects**
-- Provide a **clean and extensible folder structure** (coming soon)
-- Minimize setup time while promoting good practices
-- Make integration with other tools and libraries seamless
+- 🧪 Provide a **reliable boilerplate** for personal and freelance projects.
+- 🧼 Encourage **consistent code quality** with linting, type safety, and folder structure conventions.
+- ⚙️ Make it easy to **extend or customize** for different needs (e.g., APIs, authentication, state management).
+- 🧱 Set a foundation for **larger-scale apps** that can grow over time.
 
 ## 🚀 Getting Started
 
