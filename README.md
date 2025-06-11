@@ -1,6 +1,6 @@
 # 🧪 React + TypeScript + Vite Template
 
-This repository serves as a **starter kit for building modern React applications** using [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), and [shadcn/ui](https://ui.shadcn.dev/). It's tailored for developers who want a **quick, clean, and scalable setup** — perfect for personal projects, side experiments, or rapid prototyping.
+This repository serves as a **starter kit for building modern React applications** using [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), and [shadcn/ui](https://ui.shadcn.dev/). It's tailored for developers who want a **quick, clean, and scalable setup** — perfect for personal projects or rapid prototyping.
 
 By cloning this template, you skip the hassle of repetitive setup work. All core dependencies, development tools, and style systems are already integrated — just install the packages and start coding.
 
