@@ -44,5 +44,5 @@ By cloning this template, you skip the hassle of repetitive setup work. All core
 
 📘 Storybook integration: Visual testing and documentation for components.
 
-🧪 Unit and E2E testing setup: With libraries like Vitest, or Cypress.
+🧪 Unit and E2E testing setup: With libraries like Vitest or Cypress.
 
