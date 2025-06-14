@@ -33,6 +33,18 @@ By cloning this template, you skip the hassle of repetitive setup work. All core
 3. Start your server:
     npm run dev
 
+   
+📌 Future Improvements
+
+📂 Scalable folder structure: Organize pages, components, hooks, and services for easier maintenance.
+
+🧱 Custom component library setup: Shared, reusable components with documentation and style guides.
+
+🔧 CLI project initializer: Automate project creation with pre-filled metadata and structure.
+
+📘 Storybook integration: Visual testing and documentation for components.
+
+🧪 Unit and E2E testing setup: With libraries like Vitest or Cypress.
 
 
 
