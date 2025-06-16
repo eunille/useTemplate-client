@@ -17,7 +17,7 @@ By cloning this template, you skip the hassle of repetitive setup work. All core
 
 - 🧪 Provide a **reliable boilerplate** for personal and freelance projects.
 - 🧼 Encourage **consistent code quality** with linting, type safety, and folder structure conventions.
-- ⚙️ Make it easy to **extend or customize** for different needs (e.g., APIs, authentication, state management).
+- ⚙️ Make it easy to **extend or customize** for different needs (e.g., APIs, authentication, state management, etc).
 - 🧱 Set a foundation for **larger-scale apps** that can grow over time.
 
 ## 🚀 Getting Started
